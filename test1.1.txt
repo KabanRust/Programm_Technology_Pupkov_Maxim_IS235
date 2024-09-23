@@ -1,0 +1,5 @@
+print('Задание №2')
+res = 0
+for i in range(50):
+    res = res + ((i+1)/(i+2))
+print(res)
